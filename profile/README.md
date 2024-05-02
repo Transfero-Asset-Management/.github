@@ -7,7 +7,8 @@ We are a Brazilian CVM-authorized firm specializing in high-end quantitative sys
 ## About Us 🔍
 At Transfero Asset Management, we are committed to delivering top-notch investment solutions backed by cutting-edge quantitative research and analysis. With our team of experienced professionals and a rigorous investment process, we strive to generate consistent returns for our clients while managing risk effectively.
 
-Transfero Asset Management was founded in Ipanema, Rio de Janeiro, in 2021, building upon Transfero Group's expertise for delivering financial solutions for institutional and high-net-worth customers.
+Transfero Asset Management was founded in Ipanema, Rio de Janeiro, in 2021, building upon Transfero Group's expertise for delivering financial solutions for institutional and high-net-worth customers. 
+
 Inspired by the Institute for Pure and Applied Mathematics (“Instituto de Matemática Pura e Aplicada” - IMPA), our traditional market experts began to explore crypto, merging math, programming, and finance into a unique skill set. The creation of the asset management branch was a natural progression, reflecting our dedication to continuous learning, innovation, and connection to our vibrant place of origin.
 
 
