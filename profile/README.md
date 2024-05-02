@@ -1,14 +1,14 @@
-# Transfero Asset Management
+# Transfero Asset Management 💼
 
 Welcome to Transfero Asset Management's git page!
 
 We are a Brazilian CVM-authorized firm specializing in high-end quantitative systematic portfolios. Our expertise lies in cryptocurrency markets and quantitative analysis.
 
-## About Us
+## About Us 🔍
 At Transfero Asset Management, we are committed to delivering top-notch investment solutions backed by cutting-edge quantitative research and analysis. With our team of experienced professionals and a rigorous investment process, we strive to generate consistent returns for our clients while managing risk effectively.
 We are a thesis-driven asset management firm, aiming for long-term growth through high-end, model-based investments, built on industry-proven methods.
 
-## Our Services
+## Our Services 📈
 
 1. Quantitative Systematic Portfolios:
 Our flagship service involves managing high-end quantitative systematic portfolios tailored to meet the specific investment objectives and risk preferences of our clients. We employ advanced quantitative models and algorithms to identify profitable investment opportunities in the cryptocurrency markets.
@@ -37,4 +37,8 @@ Thank you for visiting Transfero Asset Management! We look forward to helping yo
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+💼 - Para representar a gestão de ativos.
+📈 - Para representar crescimento e retorno sobre investimento.
+🔍 - Para representar análise e pesquisa.
+💡
 -->
