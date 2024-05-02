@@ -6,7 +6,10 @@ We are a Brazilian CVM-authorized firm specializing in high-end quantitative sys
 
 ## About Us 🔍
 At Transfero Asset Management, we are committed to delivering top-notch investment solutions backed by cutting-edge quantitative research and analysis. With our team of experienced professionals and a rigorous investment process, we strive to generate consistent returns for our clients while managing risk effectively.
-We are a thesis-driven asset management firm, aiming for long-term growth through high-end, model-based investments, built on industry-proven methods.
+
+Transfero Asset Management was founded in Ipanema, Rio de Janeiro, in 2021, building upon Transfero Group's expertise for delivering financial solutions for institutional and high-net-worth customers.
+Inspired by the Institute for Pure and Applied Mathematics (“Instituto de Matemática Pura e Aplicada” - IMPA), our traditional market experts began to explore crypto, merging math, programming, and finance into a unique skill set. The creation of the asset management branch was a natural progression, reflecting our dedication to continuous learning, innovation, and connection to our vibrant place of origin.
+
 
 ## Our Services 📈
 
@@ -31,7 +34,12 @@ Thank you for visiting Transfero Asset Management! We look forward to helping yo
 <!--
 
 **Here are some ideas to get you started:**
+OUR JOURNEY
+Math, Programming, and Finance: the making of Transfero Asset
+Transfero Asset Management was founded in Ipanema, Rio de Janeiro, in 2021, building upon Transfero Group's expertise for delivering financial solutions for institutional and high-net-worth customers.
+Inspired by the Institute for Pure and Applied Mathematics (“Instituto de Matemática Pura e Aplicada” - IMPA), our traditional market experts began to explore crypto, merging math, programming, and finance into a unique skill set. The creation of the asset management branch was a natural progression, reflecting our dedication to continuous learning, innovation, and connection to our vibrant place of origin.
 
+We are committed to becoming a beacon in the regulated market, providing a secure gateway for investors seeking exposure to the crypto asset universe. At every step, we prioritize responsible conduct, customer satisfaction, and unparalleled quality.
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
